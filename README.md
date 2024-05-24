@@ -1,16 +1,19 @@
 # marbleshealth_assignment
 
-A new Flutter project.
+1. Home Screen:
+Create a form UI that includes a dynamic component. Initially, there should be at least one instance of this component by default
+Each component will consist of three elements:
+Label
+Info-Text
+Settings
 
-## Getting Started
+2. Dynamic Components:
+Below the initial component, include an “ADD” button. When the user clicks this button, a new component should appear below the existing ones.
+Each component should also have a “Remove” button. Clicking this button should remove the respective component from the form, except when only one component remains.
 
-This project is a starting point for a Flutter application.
+3. Form Submission:
+At the top-right corner of the form, include a “Submit” button. When the user clicks this button, the form data should be saved and displayed, either in a dialog or printed below the form as a card.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/arju7jha/marbleshealth_assignment/assets/88245601/1cc2ea40-4c48-426a-9243-ed3383a89659)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
